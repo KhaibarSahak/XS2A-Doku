@@ -1,3 +1,0 @@
-Version dieses Paketes:
-Wed Oct 19 14:32:17 UTC 2022
-82f6f57ba14a9700a985edc3017052798ec3a053
